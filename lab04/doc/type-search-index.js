@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"controle.alunos","l":"Aluno"},{"p":"controle.alunos","l":"Grupo"},{"p":"controle.alunos","l":"MainControleAlunos"},{"p":"controle.alunos","l":"Sistema"}];updateSearchResults();
